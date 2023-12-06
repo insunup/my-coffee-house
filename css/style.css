@@ -175,7 +175,7 @@ html {
   right: 0;
   width: 20px;
   height: 20px;
-  background-image: url(./img/img-hero.jpg);
+  background-image: url("img/img-hero.jpg");
 }
 .header__icon::before {
   content: "";
