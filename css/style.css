@@ -1310,7 +1310,7 @@ html {
   right: 0;
   width: 20px;
   height: 20px;
-  background-image: url(../img/header/coffee-cup.svg);
+  background-image: url("img//coffee-cup.svg");
 }
 .header__icon-menu::before {
   content: "";
